@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Wangila Priscilla
 - 👀 I’m interested in front end web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on any Front End Projects
 - 📫 How to reach me Email nabwonyaprish@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I ENjoy doing hard things
 
 <!---
 WangilaPrish/WangilaPrish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
