@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Michael Wamalwa
+- 👋 Hi, I’m Priscilla Wangila
 - 👀 I’m interested in front end web development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any Front End Projects
